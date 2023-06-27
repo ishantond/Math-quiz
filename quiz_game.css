@@ -1,0 +1,45 @@
+body
+{
+	background: rgb(13, 174, 214);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(235, 107, 3);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+	color: rgb(0, 140, 255);
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #ff5100;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#player1_name_input , #player2_name_input
+{
+	color: rgb(0, 140, 255);
+}
+.container
+{
+	color:rgb(255, 136, 0);
+}
